@@ -7,7 +7,7 @@
 <p align="center">
   <a href="mailto:oracionmike@gmail.com"><img src="https://img.shields.io/badge/Email-Me-<COLOR>.svg" alt="Email"></a>
   <a href="https://github.com/noicaromike"><img src="https://img.shields.io/badge/GitHub-Follow-<COLOR>.svg" alt="GitHub"></a>
-  <a href="[https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/michael-oracion-20b1591b0/)"><img src="https://img.shields.io/badge/LinkedIn-Connect-<COLOR>.svg" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/michael-oracion-20b1591b0"><img src="https://img.shields.io/badge/LinkedIn-Connect-<COLOR>.svg" alt="LinkedIn"></a>
 </p>
 
 ---
