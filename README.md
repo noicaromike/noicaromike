@@ -1,7 +1,6 @@
 ## About Me
 
 <p>Funk-stack developer 🤘 — I’ve honed my skills through freelancing and solo projects, diving deep into all aspects of web development from planning to execution. I thrive on creating organized, scalable code that’s built for the long term, especially in startup environments where speed and adaptability are key — AKA a "tinker planner" 😉</p>
-<p>Sorry for being a little lazy 🤷‍♂️ — I like to build basic, readable code that even new devs can understand... but hey, it’s hard to generalize 😉. I focus on reusable functions and components so I can launch more projects with less effort 😎.</p>
 <p>Currently working at BizBox.inc</p>
 
 ## Availability
@@ -18,5 +17,5 @@
 <p>and support businesses in attracting more leads through smart, scalable web solutions.</p>
 <p>Here’s my arsenal of skills and tech — let’s nail it! 💥</p>
 
-[![My Skills](https://skillicons.dev/icons?i=php,js,html,laravel,react,nodejs,nextjs,express,docker,mysql,git,angular,cs,azure,dotnet,postgres,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,js,html,laravel,react,nodejs,express,mysql,git,angular,cs,azure,dotnet,postgres,figma&theme=light)](https://skillicons.dev)
 
