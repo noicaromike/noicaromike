@@ -17,5 +17,5 @@
 <p>and support businesses in attracting more leads through smart, scalable web solutions.</p>
 <p>Here’s my arsenal of skills and tech — let’s nail it! 💥</p>
 
-[![My Skills](https://skillicons.dev/icons?i=php,js,html,laravel,react,nodejs,express,mysql,git,angular,cs,azure,dotnet,postgres,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,js,html,css,laravel,react,nodejs,express,mysql,git,angular,cs,azure,dotnet,postgres,figma&theme=light)](https://skillicons.dev)
 
